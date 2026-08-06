@@ -1,5 +1,5 @@
 # Data-Structures-Lab-assignment-submissio-n
-Aim= The given python file demonstrates the insertion deletion and search code in the list
+Aim= The given c++ file demonstrates the insertion deletion and search code in the list
 <br>
 How=<br>
  Step 1=It contains a pre built array of size 6 in which only 6 entries are done so first the program demonstrates the insertion of the element it first asks you the index at which you want to insert the element and then it will ask you for the value to be inserted at that index 
