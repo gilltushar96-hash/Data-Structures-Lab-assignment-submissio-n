@@ -29,22 +29,6 @@ The `main()` function creates the list `1 -> 2 -> NULL` and then:
 
 The insertion and deletion menus continue until the user enters `4`.
 
-## Compile and Run
-
-Using g++:
-
-```bash
-g++ Linked_list.cpp -o linked_list
-./linked_list
-```
-
-On Windows with MinGW:
-
-```powershell
-g++ Linked_list.cpp -o linked_list.exe
-.\linked_list.exe
-```
-
 ## Important Notes
 
 - Choose valid menu options and positions for the current list.
