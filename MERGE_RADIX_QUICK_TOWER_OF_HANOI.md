@@ -36,21 +36,7 @@ quick sort, and displays:
 The radix sort, merge sort, and Tower of Hanoi functions are implemented but are
 not currently called by `main()`.
 
-## Compile and Run
 
-Using g++:
-
-```bash
-g++ MERGE_RADIX_QUICK_TOWER_OF_HANOI.cpp -o algorithms
-./algorithms
-```
-
-On Windows with MinGW:
-
-```powershell
-g++ MERGE_RADIX_QUICK_TOWER_OF_HANOI.cpp -o algorithms.exe
-.\algorithms.exe
-```
 
 ## Function Summary
 
